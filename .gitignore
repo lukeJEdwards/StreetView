@@ -122,3 +122,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+convert
+test
+route-1
+.idea
+route.kml
